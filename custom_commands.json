@@ -1,0 +1,45 @@
+{
+    "enciende mis luces": {
+        "action": "home_assistant_service",
+        "domain": "light",
+        "service": "turn_on",
+        "entity_id": "light.luz_sala"
+    },
+    "apaga mis luces": {
+        "action": "home_assistant_service",
+        "domain": "light",
+        "service": "turn_off",
+        "entity_id": "light.luz_sala"
+    },
+    "cual es mi nombre": {
+        "action": "user_data_lookup",
+        "key": "nombre_usuario"
+    },
+    "recuerda que mi nombre es (?P<nombre>.*)": {
+        "action": "user_data_set",
+        "key": "nombre_usuario",
+        "value_from_input": "nombre"
+    },
+    "crear recordatorio (?P<que>.*) para (?P<cuando>.*)": {
+        "action": "log_reminder",
+        "parameters": [
+            {"name": "que", "prompt": "¿Qué quieres que te recuerde?"},
+            {"name": "cuando", "prompt": "¿Para cuándo es el recordatorio?"}
+        ]
+    },
+    "enciende la luz de (?P<entidad>.*)": {
+        "action": "home_assistant_service",
+        "domain": "light",
+        "service": "turn_on",
+        "entity_id": "light.{entidad}"
+    },
+    "apaga la luz de (?P<entidad>.*)": {
+        "action": "home_assistant_service",
+        "domain": "light",
+        "service": "turn_off",
+        "entity_id": "light.{entidad}"
+    },
+    "repite la ultima accion": {
+        "action": "repeat_last_action"
+    }
+}

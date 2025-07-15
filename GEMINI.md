@@ -1,31 +1,16 @@
 # Gemini CLI en AutogestiónPro 🚀
 
-## ¿Qué es Gemini CLI?
+Este documento complementa la información general sobre Gemini CLI que se encuentra en el `README.md` principal del proyecto. Aquí se detallan aspectos específicos de su integración y uso dentro de AutogestiónPro.
 
-Gemini CLI es la herramienta de línea de comandos oficial desarrollada por Google para interactuar con modelos avanzados de IA generativa, especialmente la serie Gemini. Permite ejecutar consultas, integrar flujos de IA y automatizar tareas inteligentes directamente desde la consola.
+## Integración y Uso Específico
 
----
+Gemini CLI es el núcleo de automatización inteligente en AutogestiónPro, permitiendo la ejecución de prompts de IA y la integración con flujos de trabajo avanzados. Su uso principal se centra en:
 
-## Objetivo en AutogestiónPro
+*   **Ejecución de prompts IA** directamente desde el terminal para interactuar con los modelos Gemini.
+*   **Automatización avanzada** mediante la integración con sistemas de flujo de trabajo (por ejemplo, n8n) para potenciar los procesos empresariales.
+*   **Generación de contenido inteligente** y **análisis de datos** impulsados por IA.
+*   **Extensión modular** para adaptar las capacidades de IA a necesidades específicas del proyecto.
 
-Integrar Gemini CLI como núcleo de automatización inteligente para potenciar los procesos de las empresas clientes, simplificando tareas repetitivas, mejorando la toma de decisiones y facilitando el acceso a insights generados por IA.
+## Enlaces Relevantes
 
----
-
-## Funcionalidades clave
-
-- **Ejecución de prompts IA** directamente desde el terminal.
-- **Automatización avanzada** mediante integración con flujos de trabajo (por ejemplo, n8n).
-- **Generación de contenido inteligente** para documentos, correos y reportes.
-- **Análisis de datos y toma de decisiones** basados en IA.
-- **Extensión modular** para adaptar la herramienta a necesidades específicas.
-
----
-
-## Instalación rápida
-
-```bash
-npm install -g @google/gemini-cli
-
-## Enlaces:
-- [Memoria General](/data/data/com.termux/files/home/memoria.md)
+*   [Memoria General](/data/data/com.termux/files/home/memoria.md)

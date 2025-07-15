@@ -1,0 +1,207 @@
+2025-07-14 14:05:01,518 - INFO - Plugin cargado: n8n_webhook_plugin
+2025-07-14 14:05:01,518 - INFO - Plugin cargado: home_assistant_plugin
+2025-07-14 14:05:01,518 - INFO - Plugin cargado: github_mcp_plugin
+2025-07-14 14:05:01,519 - INFO - Plugin cargado: todo_plugin
+2025-07-14 14:05:01,709 - INFO - Plugin cargado: calendar_plugin
+2025-07-14 14:05:01,793 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:05:03,785 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 8931.97
+2025-07-14 14:05:03,789 - INFO - Escuchando...
+2025-07-14 14:05:11,309 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:05:12,298 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:05:12,299 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:05:18,678 - INFO - Reproducción de audio completada.
+2025-07-14 14:05:18,767 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:05:20,976 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 92.77
+2025-07-14 14:05:20,976 - INFO - Escuchando...
+FO - Reproducción de audio completada.
+2025-07-14 14:05:18,767 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:05:20,976 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 92.77
+2025-07-14 14:05:20,976 - INFO - Escuchando...
+a'.
+2025-07-14 14:05:06,267 - INFO - Plugin example_plugin consumió la entrada.
+2025-07-14 14:05:06,328 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:05:08,326 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 1209.83
+2025-07-14 14:05:08,329 - INFO - Escuchando...
+2025-07-14 14:05:10,632 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:05:11,416 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:05:11,417 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:05:17,882 - INFO - Reproducción de audio completada.
+2025-07-14 14:05:17,911 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:05:19,904 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 306.05
+2025-07-14 14:05:19,905 - INFO - Escuchando...
+2025-07-14 14:05:24,884 - WARNING - Tiempo de espera agotado. No se detectó voz.
+para ruido ambiental... Por favor, espere.
+2025-07-14 14:05:19,904 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 306.05
+2025-07-14 14:05:19,905 - INFO - Escuchando...
+2025-07-14 14:05:24,884 - WARNING - Tiempo de espera agotado. No se detectó voz.
+2025-07-14 14:35:02,865 - INFO - Conexión a internet confirmada.
+2025-07-14 14:35:02,865 - INFO - Iniciando asistente de voz. Di 'salir' para terminar.
+2025-07-14 14:35:02,867 - INFO - Plugin cargado: example_plugin
+2025-07-14 14:35:02,868 - INFO - Plugin cargado: time_plugin
+2025-07-14 14:35:02,882 - INFO - Plugin cargado: n8n_webhook_plugin
+2025-07-14 14:35:02,882 - INFO - Plugin cargado: n8n_webhook_plugin
+2025-07-14 14:35:02,884 - INFO - Plugin cargado: home_assistant_plugin
+2025-07-14 14:35:02,884 - INFO - Plugin cargado: home_assistant_plugin
+2025-07-14 14:35:02,885 - INFO - Plugin cargado: github_mcp_plugin
+2025-07-14 14:35:02,885 - INFO - Plugin cargado: github_mcp_plugin
+2025-07-14 14:35:02,886 - INFO - Plugin cargado: todo_plugin
+2025-07-14 14:35:02,886 - INFO - Plugin cargado: todo_plugin
+2025-07-14 14:35:03,122 - INFO - Plugin cargado: calendar_plugin
+2025-07-14 14:35:03,122 - INFO - Plugin cargado: calendar_plugin
+2025-07-14 14:35:03,255 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:35:03,255 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:35:05,290 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 791.77
+2025-07-14 14:35:05,290 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 791.77
+2025-07-14 14:35:05,295 - INFO - Escuchando...
+2025-07-14 14:35:05,295 - INFO - Escuchando...
+2025-07-14 14:35:08,111 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:35:08,111 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:35:08,634 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:35:08,634 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:35:08,636 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:35:08,636 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:35:15,340 - INFO - Reproducción de audio completada.
+2025-07-14 14:35:15,340 - INFO - Reproducción de audio completada.
+2025-07-14 14:35:15,434 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:35:15,434 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:35:17,477 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 6.96
+2025-07-14 14:35:17,477 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 6.96
+2025-07-14 14:35:17,482 - INFO - Escuchando...
+2025-07-14 14:35:17,482 - INFO - Escuchando...
+2025-07-14 14:35:28,333 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:35:28,333 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:35:28,809 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:35:28,809 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:35:28,810 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:35:28,810 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:35:35,023 - INFO - Reproducción de audio completada.
+2025-07-14 14:35:35,023 - INFO - Reproducción de audio completada.
+2025-07-14 14:35:35,133 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:35:35,133 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:35:37,176 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 6.96
+2025-07-14 14:35:37,176 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 6.96
+2025-07-14 14:35:37,177 - INFO - Escuchando...
+2025-07-14 14:35:37,177 - INFO - Escuchando...
+2025-07-14 14:39:17,809 - INFO - Conexión a internet confirmada.
+2025-07-14 14:39:17,811 - INFO - Iniciando asistente de voz. Di 'salir' para terminar.
+2025-07-14 14:39:17,813 - INFO - Plugin cargado: example_plugin
+2025-07-14 14:39:17,814 - INFO - Plugin cargado: time_plugin
+2025-07-14 14:39:17,825 - INFO - Plugin cargado: n8n_webhook_plugin
+2025-07-14 14:39:17,826 - INFO - Plugin cargado: home_assistant_plugin
+2025-07-14 14:39:17,827 - INFO - Plugin cargado: github_mcp_plugin
+2025-07-14 14:39:17,828 - INFO - Plugin cargado: todo_plugin
+2025-07-14 14:39:18,013 - INFO - Plugin cargado: calendar_plugin
+2025-07-14 14:39:18,088 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:39:19,124 - INFO - Ajuste de ruido ambiental completo. Umbral de energía: 809.6691878315114
+2025-07-14 14:39:19,125 - INFO - Escuchando...
+2025-07-14 14:39:21,412 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:39:22,287 - INFO - Texto reconocido: 'hola me escuchas'
+2025-07-14 14:39:22,353 - INFO - Plugin de ejemplo: Interceptando 'hola'.
+2025-07-14 14:39:22,353 - INFO - Plugin example_plugin consumió la entrada.
+2025-07-14 14:39:22,392 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:39:23,430 - INFO - Ajuste de ruido ambiental completo. Umbral de energía: 813.1469915297773
+2025-07-14 14:39:23,434 - INFO - Escuchando...
+2025-07-14 14:39:28,710 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:39:29,252 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:39:29,254 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:39:35,794 - INFO - Reproducción de audio completada.
+2025-07-14 14:39:35,893 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:39:36,927 - INFO - Ajuste de ruido ambiental completo. Umbral de energía: 621.6284466502575
+2025-07-14 14:39:36,927 - INFO - Escuchando...
+2025-07-14 14:45:29,865 - INFO - Conexión a internet confirmada.
+2025-07-14 14:45:29,866 - INFO - Iniciando asistente de voz. Di 'salir' para terminar.
+2025-07-14 14:45:29,986 - INFO - Ajustando para ruido ambiental... Por favor, espere.
+2025-07-14 14:45:32,029 - INFO - Ajuste de ruido ambiental completo. Umbral de energía dinámico: 191.59
+2025-07-14 14:45:32,141 - INFO - Plugin cargado: example_plugin
+2025-07-14 14:45:32,144 - INFO - Plugin cargado: time_plugin
+2025-07-14 14:45:32,172 - INFO - Plugin cargado: n8n_webhook_plugin
+2025-07-14 14:45:32,173 - INFO - Plugin cargado: home_assistant_plugin
+2025-07-14 14:45:32,174 - INFO - Plugin cargado: github_mcp_plugin
+2025-07-14 14:45:32,176 - INFO - Plugin cargado: todo_plugin
+2025-07-14 14:45:32,179 - ERROR - Error al cargar el plugin calendar_plugin: No module named 'google'
+2025-07-14 14:45:32,207 - INFO - Escuchando...
+2025-07-14 14:45:34,462 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:45:35,139 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:45:35,140 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:45:41,695 - INFO - Reproducción de audio completada.
+2025-07-14 14:45:41,790 - INFO - Escuchando...
+2025-07-14 14:45:45,981 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:45:46,913 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:45:46,915 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:45:53,177 - INFO - Reproducción de audio completada.
+2025-07-14 14:45:53,270 - INFO - Escuchando...
+2025-07-14 14:45:55,548 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:45:56,130 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:45:56,131 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:46:02,422 - INFO - Reproducción de audio completada.
+2025-07-14 14:46:02,520 - INFO - Escuchando...
+2025-07-14 14:46:05,431 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:46:05,958 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:46:05,959 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:46:12,197 - INFO - Reproducción de audio completada.
+2025-07-14 14:46:12,307 - INFO - Escuchando...
+2025-07-14 14:46:17,122 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:46:17,940 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:46:17,941 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:46:24,334 - INFO - Reproducción de audio completada.
+2025-07-14 14:46:24,440 - INFO - Escuchando...
+2025-07-14 14:46:25,906 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:46:26,544 - INFO - Texto reconocido: 'se me olvida el vaso'
+2025-07-14 14:46:28,231 - ERROR - Error al interactuar con Gemini CLI: Command '['gemini', 'generate-content', '--stdin']' returned non-zero exit status 1.
+2025-07-14 14:46:28,232 - ERROR - Salida de error: gemini [options]
+
+Gemini CLI - Launch an interactive CLI, use -p/--prompt for non-interactive mode
+
+Options:
+  -m, --model                     Model  [string] [default: "gemini-2.5-pro"]
+  -p, --prompt                    Prompt. Appended to input on stdin (if any).  [string]
+  -i, --prompt-interactive        Execute the provided prompt and continue in interactive mode  [string]
+  -s, --sandbox                   Run in sandbox?  [boolean]
+      --sandbox-image             Sandbox image URI.  [string]
+  -d, --debug                     Run in debug mode?  [boolean] [default: false]
+  -a, --all-files                 Include ALL files in context?  [boolean] [default: false]
+      --all_files                 Include ALL files in context?  [deprecated: Use --all-files instead. We will be removing --all_files in the coming weeks.] [boolean] [default: false]
+      --show-memory-usage         Show memory usage in status bar  [boolean] [default: false]
+      --show_memory_usage         Show memory usage in status bar  [deprecated: Use --show-memory-usage instead. We will be removing --show_memory_usage in the coming weeks.] [boolean] [default: false]
+  -y, --yolo                      Automatically accept all actions (aka YOLO mode, see https://www.youtube.com/watch?v=xvFZjo5PgG0 for more details)?  [boolean] [default: false]
+      --telemetry                 Enable telemetry? This flag specifically controls if telemetry is sent. Other --telemetry-* flags set specific values but do not enable telemetry on their own.  [boolean]
+      --telemetry-target          Set the telemetry target (local or gcp). Overrides settings files.  [string] [choices: "local", "gcp"]
+      --telemetry-otlp-endpoint   Set the OTLP endpoint for telemetry. Overrides environment variables and settings files.  [string]
+      --telemetry-log-prompts     Enable or disable logging of user prompts for telemetry. Overrides settings files.  [boolean]
+  -c, --checkpointing             Enables checkpointing of file edits  [boolean] [default: false]
+      --allowed-mcp-server-names  Allowed MCP server names  [array]
+  -e, --extensions                A list of extensions to use. If not provided, all extensions are used.  [array]
+  -l, --list-extensions           List all available extensions and exit.  [boolean]
+  -v, --version                   Show version number  [boolean]
+  -h, --help                      Show help  [boolean]
+
+Unknown argument: stdin
+
+2025-07-14 14:46:28,233 - INFO - Intentando decir: 'Lo siento, hubo un error al comunicarme con Gemini. Por favor, revisa la consola para más detalles.'
+2025-07-14 14:46:37,836 - INFO - Reproducción de audio completada.
+2025-07-14 14:46:37,880 - INFO - Escuchando...
+2025-07-14 14:46:39,894 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:46:40,368 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:46:40,369 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:46:46,651 - INFO - Reproducción de audio completada.
+2025-07-14 14:46:46,737 - INFO - Escuchando...
+2025-07-14 14:46:53,076 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:46:53,416 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:46:53,417 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:46:59,759 - INFO - Reproducción de audio completada.
+2025-07-14 14:46:59,865 - INFO - Escuchando...
+2025-07-14 14:47:02,101 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:47:02,691 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:47:02,692 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:47:09,168 - INFO - Reproducción de audio completada.
+2025-07-14 14:47:09,262 - INFO - Escuchando...
+2025-07-14 14:47:12,195 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:47:12,830 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:47:12,831 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:47:19,163 - INFO - Reproducción de audio completada.
+2025-07-14 14:47:19,287 - INFO - Escuchando...
+2025-07-14 14:47:25,978 - INFO - Audio capturado, procesando con Google Speech Recognition...
+2025-07-14 14:47:26,755 - WARNING - Google Speech Recognition no pudo entender el audio.
+2025-07-14 14:47:26,756 - INFO - Intentando decir: 'No pude entender lo que dijiste. Por favor, inténtalo de nuevo.'
+2025-07-14 14:47:33,240 - INFO - Reproducción de audio completada.
+2025-07-14 14:47:33,332 - INFO - Escuchando...
